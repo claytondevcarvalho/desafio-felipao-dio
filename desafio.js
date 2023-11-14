@@ -1,5 +1,5 @@
 
-let nicknameXp = ["PhoenixEhUmBomAgente2023" , -333200]
+let nicknameXp = ["PhoenixEhUmBomAgente2023" , -2023]
 let nivel = "sem nivel"
 
 const primeiraMensagem = "O Herói "
